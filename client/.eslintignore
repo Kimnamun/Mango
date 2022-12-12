@@ -1,0 +1,11 @@
+.eslint*
+**/node_modules
+**/spec
+**/test
+**/bower_components
+# **/lib
+**/vendor
+**/*.min.js
+**/public
+/src/serviceWorker.js
+/src/setupTest.js
